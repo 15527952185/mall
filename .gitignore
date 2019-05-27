@@ -2,3 +2,7 @@
 *.class
 *.classpath
 .gitkeep
+.settings
+.project
+.factorypath
+.gitignore
