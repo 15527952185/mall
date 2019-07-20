@@ -7,6 +7,7 @@ public class CommonConstant {
 	}
 	public enum TradeEnum implements CommonEnum{
 		SUSSESS("1","´æ´¢"),FAIL("2","Ê§°Ü");
+		aaa("1","bbb"),FAIL("2","Ê§°Ü");
 		private String code;
 		private String str;
 		TradeEnum(String code,String str){
