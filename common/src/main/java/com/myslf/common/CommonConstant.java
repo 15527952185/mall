@@ -7,7 +7,10 @@ package com.myslf.common;
 	}
 	public enum TradeEnum implements CommonEnum{
 		SUSSESS("1","成功"),FAIL("2","失败");
+<<<<<<< HEAD
 		SUSSESS("1","成功"),FAIL("2","失败");
+=======
+>>>>>>> c45066f28ba1aff32aa70da56f170957be1fbd0e
 		private String code;
 		private String str;
 		TradeEnum(String code,String str){
