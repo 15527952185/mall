@@ -1,6 +1,6 @@
 package com.myslf.common;
-////
-public class CommonConstant {
+//// 
+ 
 	public interface CommonEnum {
 		public String getCode();
 		public String getString();
