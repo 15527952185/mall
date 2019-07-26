@@ -1,6 +1,5 @@
 package com.myslf.common;
-//// 
-       
+////ÖÐ×ªÕ¾aaaa
 	public interface CommonEnum {
 		public String getCode();
 		public String getString();
